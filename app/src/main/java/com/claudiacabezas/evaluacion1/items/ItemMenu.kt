@@ -1,4 +1,3 @@
 package com.claudiacabezas.evaluacion1.items
 
-class ItemMenu {
-}
+data class ItemMenu(val nombre: String, val precio: Int)
